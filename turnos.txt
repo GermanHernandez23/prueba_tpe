@@ -4,3 +4,4 @@ Miercoles: AGOTADO
 jueves: AGOTADO
 viernes: AGOTADO
 sabado: AGOTADO
+Domingo: CERRADO
