@@ -1,3 +1,4 @@
 -Peluqueria
 -Chequeo
 -Operaciones
+-Paseador
