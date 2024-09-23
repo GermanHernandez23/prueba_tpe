@@ -1,0 +1,6 @@
+Lunes: AGOTADO
+Martes: AGOTADO
+Miercoles: AGOTADO
+jueves: Libre de 16hs a 18hs
+viernes: AGOTADO
+sabado: AGOTADO
