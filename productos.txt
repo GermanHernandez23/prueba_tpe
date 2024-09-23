@@ -1,6 +1,6 @@
 *Collares
 *Comida
-*Jugetes
+*Jugetes SIN STOCK
 *Shampoos
 *Cuchas
-*Peines
+*Peines SIN STOCK
